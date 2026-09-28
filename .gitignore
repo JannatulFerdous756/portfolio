@@ -1,0 +1,7 @@
+# Private data created while the site runs
+storage/messages.json
+storage/visits.json
+
+# System files
+.DS_Store
+Thumbs.db

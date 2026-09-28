@@ -1,0 +1,233 @@
+{
+  "basics": {
+    "name": "Jannatul Ferdous",
+    "role": "CSE student and aspiring data scientist",
+    "summary": "I build machine learning models and data-driven tools, and most of my research asks the same question: how can technology make farms, coasts, classrooms and cities greener and fairer?",
+    "objective": "Seeking a challenging role as a Data Scientist where I can use Python, C++, Java, SQL, JavaScript and C#, along with tools like VS Code, Oracle, PyCharm, RStudio and MATLAB, to design machine learning models and data-driven solutions that deliver meaningful insights.",
+    "photo": "assets/img/profile.jpg",
+    "cv": "assets/Jannatul_Ferdous_CV.pdf",
+    "location": "Dhaka, Bangladesh",
+    "email": "jannatulofficial98@gmail.com",
+    "phones": ["01825533963", "01949201798"],
+    "links": [
+      { "label": "GitHub", "url": "https://github.com/JannatulFerdous756" },
+      { "label": "LinkedIn", "url": "" }
+    ]
+  },
+
+  "stats": [
+    { "value": "8", "label": "research works" },
+    { "value": "3.65", "label": "CGPA at AIUB" },
+    { "value": "5.00", "label": "HSC GPA" }
+  ],
+
+  "skills": [
+    { "group": "Programming languages", "items": ["Python", "C++", "Java", "SQL", "C#", "R", "HTML", "CSS", "JavaScript"] },
+    { "group": "Software and tools", "items": ["Visual Studio Code", "Oracle", "PyCharm", "RStudio", "CodeBlocks", "MATLAB"] },
+    { "group": "Office and systems", "items": ["MS Word", "MS Excel", "MS PowerPoint", "Windows 7–11"] },
+    { "group": "Languages spoken", "items": ["Bengali", "English", "Hindi"] }
+  ],
+
+  "research": [
+    {
+      "id": "agrovision",
+      "title": "AgroVision: An Efficient Hybrid Machine Learning Architecture for Multi Crop Disease Diagnosis in Precision Agriculture",
+      "venue": "International Conference QPAIN",
+      "date": "2026",
+      "year": 2026,
+      "status": "Accepted and presented",
+      "topic": "Agriculture",
+      "note": "Paper ID 1598",
+      "doi": ""
+    },
+    {
+      "id": "skillmap",
+      "title": "SkillMap-ML: A Data-Driven Skill Mapping and Machine Learning Framework for Classifying, Predicting, and Visualizing Digital Competency Gaps in University Students",
+      "venue": "2nd Undergraduate Conference on Intelligent Computing and Systems (UCICS 2026), Varendra University",
+      "date": "Jan 17–18, 2026",
+      "year": 2026,
+      "status": "Conference paper",
+      "topic": "Education",
+      "note": "PID 122",
+      "doi": ""
+    },
+    {
+      "id": "blueflag",
+      "title": "Cox's Bazar & the Blue Flag Standard: A Study on Coastal Tourism Sustainability",
+      "venue": "ICEBTM 2025",
+      "date": "Nov 2025",
+      "year": 2025,
+      "status": "Published and presented",
+      "topic": "Sustainability",
+      "note": "",
+      "doi": "10.67508/iub.icebtm.2025.004"
+    },
+    {
+      "id": "biodegradable-iot",
+      "title": "Design and Development of Bio-Degradable IoT Systems for Sustainable Green Energy Monitoring and Management",
+      "venue": "ICCIT 2025 (IEEE)",
+      "date": "2025",
+      "year": 2025,
+      "status": "Published and presented",
+      "topic": "IoT",
+      "note": "",
+      "doi": "10.1109/ICCIT68739.2025.11491535"
+    },
+    {
+      "id": "crop-drone",
+      "title": "AI-Based Detection of Crop Diseases and Pests Using Drone and Field Imagery",
+      "venue": "NETINSEARCH International Conference",
+      "date": "2025",
+      "year": 2025,
+      "status": "Accepted and presented",
+      "topic": "Agriculture",
+      "note": "",
+      "doi": ""
+    },
+    {
+      "id": "esg",
+      "title": "From Compliance to Strategy: Navigating ESG Integration in Business Models",
+      "venue": "NETINSEARCH International Conference",
+      "date": "2025",
+      "year": 2025,
+      "status": "Accepted and presented",
+      "topic": "Sustainability",
+      "note": "",
+      "doi": ""
+    },
+    {
+      "id": "green-ai",
+      "title": "Balancing Digital Innovation and Environmental Sustainability: The Role of Green AI in Reducing Energy Consumption and Carbon Footprint",
+      "venue": "International Conference on Information Technology and Development (ITD)",
+      "date": "2025",
+      "year": 2025,
+      "status": "Accepted and presented",
+      "topic": "Sustainability",
+      "note": "",
+      "doi": ""
+    },
+    {
+      "id": "nbhrc",
+      "title": "National Biomed Health ResearchCon (NBHRC)",
+      "venue": "Organized by DMC RAC with Bangladesh Society of Medicine",
+      "date": "Aug 2025",
+      "year": 2025,
+      "status": "Certificate of Authorship",
+      "topic": "Health",
+      "note": "",
+      "doi": ""
+    }
+  ],
+
+  "projects": [
+    {
+      "id": "restaurant",
+      "title": "Restaurant Management System",
+      "role": "Application developer",
+      "when": "7th semester",
+      "stack": ["C#", "Visual Studio", "SQL"],
+      "goal": "A complete system that streamlines order processing, billing and inventory.",
+      "points": [
+        "Designed and built the core application modules in C#.",
+        "Integrated menu handling, live order tracking and billing receipts.",
+        "Optimized SQL connectivity and ran end-to-end testing."
+      ]
+    },
+    {
+      "id": "color-sensor",
+      "title": "Color Sensor / Detector Device",
+      "role": "Digital logic circuit designer",
+      "when": "6th semester",
+      "stack": ["Digital logic", "Hardware"],
+      "goal": "An accurate, low-cost color detection device built on digital logic design.",
+      "points": [
+        "Built circuit modules that distinguish up to seven colors.",
+        "Applied logic optimization to improve speed and reliability.",
+        "Tested and debugged the hardware to keep accuracy high."
+      ]
+    },
+    {
+      "id": "cafe",
+      "title": "Cafe Management System",
+      "role": "Developer",
+      "when": "5th semester",
+      "stack": ["Java", "DBMS"],
+      "goal": "A database-driven system to store and retrieve orders and menu items.",
+      "points": [
+        "Wrote the business logic and GUI in Java.",
+        "Designed relational tables and schemas for transactions.",
+        "Worked in an agile team to connect the UI with the database."
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "school": "American International University-Bangladesh (AIUB)",
+      "degree": "B.Sc. in Computer Science and Engineering",
+      "result": "CGPA 3.65 / 4.00",
+      "when": "Jan 2023 – present (12th semester)",
+      "place": "Dhaka"
+    },
+    {
+      "school": "Jashore Govt. Mohila College",
+      "degree": "Higher Secondary Certificate (Science)",
+      "result": "GPA 5.00 / 5.00",
+      "when": "2021",
+      "place": "Jashore"
+    },
+    {
+      "school": "Jashore Govt. Girls High School",
+      "degree": "Secondary School Certificate (Science)",
+      "result": "GPA 4.89 / 5.00",
+      "when": "2019",
+      "place": "Jashore"
+    }
+  ],
+
+  "certifications": [
+    {
+      "id": "data-science-diploma",
+      "title": "Professional Diploma in Data Science & Business Analytics with R&D",
+      "issuer": "ISM Education with BCET (UK)",
+      "when": "Feb 2026",
+      "note": "Completed program and capstone project. Certificate No. B1DS-T8CJ3"
+    },
+    {
+      "id": "marketing",
+      "title": "Certificate in Professional Marketing",
+      "issuer": "DCCI Business Institute, Dhaka Chamber of Commerce & Industry",
+      "when": "2024",
+      "note": ""
+    }
+  ],
+
+  "leadership": [
+    {
+      "title": "Leader, Bangladesh National Cadet Corps (BNCC)",
+      "text": "Led cadet platoons in institutional drills, leadership exercises and community development programs."
+    },
+    {
+      "title": "Debater, college debate team",
+      "text": "Represented the college in regional inter-college tournaments."
+    },
+    {
+      "title": "Member, Michael Madhusudan Dutta Debate Federation",
+      "text": "Active member of the debate federation."
+    }
+  ],
+
+  "references": {
+    "public": false,
+    "people": [
+      {
+        "name": "Dr. Partha Prasad Chowdhury",
+        "title": "Professor & Head, Department of Marketing, AIUB"
+      },
+      {
+        "name": "Tasnia Tarannum",
+        "title": "Lecturer, Department of English, AIUB"
+      }
+    ]
+  }
+}
